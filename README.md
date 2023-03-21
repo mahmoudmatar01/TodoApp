@@ -1,2 +1,2 @@
 # TodoApp
-Todo App For Organize Your Daily Things
+Todo App For Organize Your Daily Activities
